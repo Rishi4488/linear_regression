@@ -74,8 +74,8 @@ equation is a good fit for this data. (0.8 and greater is considered a strong co
 1. Research dummy variables in scikit-learn to see how to use the make, model, and body type.
 2. Find the best combination of factors to predict price.
 
-## Boston Housing Dataset
-### Predicting Median value of owner-occupied homes 
+# Boston Housing Dataset
+## Predicting Median value of owner-occupied homes 
 
 The aim of this assignment is to learn the application of machine learning algorithms to data sets. This involves learning what data means, how to handle data, training, cross validation, prediction, testing your model, etc.
 
